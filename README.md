@@ -18,8 +18,8 @@ This project simulates a **Product Transfer System** using Siemens PLC, HMI (SIM
  
 ## 🧩 Components Used
 
-- Siemens S7-1200 PLC (or compatible)
-- SIMATIC HMI Panel
+- Siemens S7- CPU 1211C PLC (or compatible)
+- SIMATIC HMI Panel - KTP700 Basic PN (Profinet)
 - Factory I/O (3D simulation software)
 
 
