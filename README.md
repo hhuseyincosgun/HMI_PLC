@@ -2,6 +2,7 @@
 
 ## 🚀 Project Overview
 
+
 - 🎯 **Goal**: Automatically transfer a defined number of products based on their color using a color sensor.
 - ⚙️ **System**: A conveyor belt detects products (Green or Blue) and separates them using actuators.
 - 📥 **User Input**: Enter the number of products to transfer via HMI.
